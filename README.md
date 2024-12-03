@@ -1,7 +1,5 @@
 # Music
 音频播放
-class exports.AudioPlayer extends Layer
-
 	constructor: (options={}) ->
 		options.backgroundColor ?= "transparent"
 
